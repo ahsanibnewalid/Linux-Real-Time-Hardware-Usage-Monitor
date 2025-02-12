@@ -1,9 +1,4 @@
 # Linux-Real-Time-Hardware-Usage-Monitor
-Certainly! This is a simple Bash script that monitors real-time hardware usage, including CPU, memory, and disk usage. This script uses common Linux utilities like top, free, and df.
-
-
-
-
 
 How to Use the Script
 Save the script: Save the script to a file, for example, monitor.sh.
